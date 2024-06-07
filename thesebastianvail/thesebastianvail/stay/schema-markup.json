@@ -1,0 +1,3122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "id#WebSite-theSebastian-Vail",
+      "url": "https://www.thesebastianvail.com",
+      "name": "The Sebastian - Vail"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "id#ImageObject-theSebastian-Vail#logo",
+      "url": "https://www.thesebastianvail.com/wp-content/themes/sebastianvail/assets/img/logo-sebastianvail-white.png",
+      "contentUrl": "https://www.thesebastianvail.com/wp-content/themes/sebastianvail/assets/img/logo-sebastianvail-white.png",
+      "name": "The Sebastian - Vail logo",
+      "caption": "The Sebastian - Vail logo",
+      "copyrightNotice": "All rights reserved | The Sebastian - Vail",
+      "creditText": "The Sebastian - Vail",
+      "license": "https://www.timbersresorts.com/privacy",
+      "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+      "creator": {
+        "@id": "id#Resort-theSebastian-Vail"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "id#WebPage-https://www.thesebastianvail.com/stay",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Stay",
+      "isPartOf": {
+        "id": "id#WebSite-theSebastian-Vail"
+      },
+      "about": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "breadcrumb": {
+        "@id": "id#BreadcrumbList-https://www.thesebastianvail.com/stay"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "@id": "id#SpeakableSpecification-https://www.thesebastianvail.com/stay",
+        "url": "https://www.thesebastianvail.com/stay",
+        "xPath": [
+          "/html/head/title",
+          "/html/head/meta[@name=description]/@content"
+        ]
+      },
+      "sdPublisher": [
+        {
+          "@type": "Organization",
+          "@id": "https://hooray.agency#organization",
+          "url": "https://hooray.agency",
+          "name": "Hooray Agency",
+          "sameAs": [
+            "https://www.linkedin.com/company/hooray-agency"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://www.jakelabate.com#person",
+          "url": "https://www.jakelabate.com",
+          "name": "Jake Labate",
+          "title": "SEO Consultant",
+          "sameAs": [
+            "https://www.linkedin.com/in/jakelabate"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "id#BreadcrumbList-https://www.thesebastianvail.com/stay",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Stay",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "@id": "id#ListItem-https://www.thesebastianvail.com/stay#breadcrumblistitem-0",
+          "url": "https://www.thesebastianvail.com/stay",
+          "item": "https://www.thesebastianvail.com/stay",
+          "name": "Stay",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "@type": "Resort",
+      "@id": "id#Resort-theSebastian-Vail",
+      "url": "https://www.thesebastianvail.com",
+      "name": "The Sebastian - Vail",
+      "description": "Vail, Colorado is one-of-a-kind. For skiers, it is a mountain without equal. As a mountain village, there is no other in America as charming, colorful and international. In the heart of Vail Village, The Sebastian – Vail, a Timbers Resort, captures the magic of this storied place like nowhere else. From personalized experiences and services to our private slopeside Base Camp with ski valets, we attend to every detail, so you can focus on family and fun. Join us for a night or own with us forever. Either way, our Vail resort will beckon you home time and again.",
+      "checkinTime": "16:00",
+      "checkoutTime": "11:00",
+      "petsAllowed": true,
+      "sameAs": [
+        "https://www.facebook.com/thesebastianvail",
+        "https://www.instagram.com/thesebastianvail",
+        "https://twitter.com/sebastianvail",
+        "https://www.linkedin.com/company/the-sebastian-vail-a-timbers-resorts-hotel-&-residence-club"
+      ],
+      "currenciesAccepted": [
+        "USD"
+      ],
+      "paymentAccepted": [
+        "Credit Card",
+        "Debit Card"
+      ],
+      "availableLanguage": [
+        "German",
+        "English",
+        "Spanish",
+        "Croatian",
+        "Dutch"
+      ],
+      "priceRange": "$$$",
+      "logo": {
+        "@id": "id#ImageObject-theSebastian-Vail#logo"
+      },
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-hotelRooms-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2631_edit-1400x800.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2631_edit-1400x800.jpg",
+          "name": "Hotel Rooms",
+          "caption": "Hotel Rooms",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-executiveSuites-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/10/5R5A2432_edit-1400x800.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/10/5R5A2432_edit-1400x800.jpg",
+          "name": "Executive Suites",
+          "caption": "Executive Suites",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-residentialSuites-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_livngrm2_70311-1775x800.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_livngrm2_70311-1775x800.jpg",
+          "name": "Residential Suites",
+          "caption": "Residential Suites",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-grandGaleriePenthouse-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/GC_MartDSC_2129-Edit-1775x800.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/GC_MartDSC_2129-Edit-1775x800.jpg",
+          "name": "Grand Galerie Penthouse",
+          "caption": "Grand Galerie Penthouse",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "containsPlace": [
+        {
+          "@id": "id#Room-luxuryInteriorRoom-TwoQueens"
+        },
+        {
+          "@id": "id#Room-luxuryInteriorRoom-OneKing"
+        },
+        {
+          "@id": "id#Room-luxuryPlazaRoom–TwoQueens"
+        },
+        {
+          "@id": "id#Room-luxuryPlazaRoom–OneKing"
+        },
+        {
+          "@id": "id#Suite-executiveTwo-bedroomSuite"
+        },
+        {
+          "@id": "id#Suite-executiveOne-bedroomSuite"
+        },
+        {
+          "@id": "id#Suite-executiveTwo-bedroomSuite"
+        },
+        {
+          "@id": "id#Suite-four-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#Suite-three-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#Suite-two-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#Suite-one-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#Room-grandGaleriePenthouse"
+        },
+        {
+          "@id": "id#VacationRental-luxuryInteriorRoom-TwoQueens"
+        },
+        {
+          "@id": "id#VacationRental-luxuryInteriorRoom-OneKing"
+        },
+        {
+          "@id": "id#VacationRental-luxuryPlazaRoom–TwoQueens"
+        },
+        {
+          "@id": "id#VacationRental-luxuryPlazaRoom–OneKing"
+        },
+        {
+          "@id": "id#VacationRental-executiveTwo-bedroomSuite"
+        },
+        {
+          "@id": "id#VacationRental-executiveOne-bedroomSuite"
+        },
+        {
+          "@id": "id#VacationRental-executiveTwo-bedroomSuite"
+        },
+        {
+          "@id": "id#VacationRental-four-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#VacationRental-three-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#VacationRental-two-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#VacationRental-one-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#VacationRental-grandGaleriePenthouse"
+        },
+        {
+          "@id": "id#Restaurant-leonora"
+        },
+        {
+          "@id": "id#Restaurant-gambit"
+        },
+        {
+          "@id": "id#DaySpa-bloomSpa"
+        }
+      ],
+      "numberOfRooms": [
+        {
+          "@id": "id#QuantitativeValue-luxuryInteriorRoom-TwoQueens"
+        },
+        {
+          "@id": "id#QuantitativeValue-luxuryInteriorRoom-OneKing"
+        },
+        {
+          "@id": "id#QuantitativeValue-luxuryPlazaRoom–TwoQueens"
+        },
+        {
+          "@id": "id#QuantitativeValue-luxuryPlazaRoom–OneKing"
+        },
+        {
+          "@id": "id#QuantitativeValue-executiveTwo-bedroomSuite"
+        },
+        {
+          "@id": "id#QuantitativeValue-executiveOne-bedroomSuite"
+        },
+        {
+          "@id": "id#QuantitativeValue-executiveTwo-bedroomSuite"
+        },
+        {
+          "@id": "id#QuantitativeValue-four-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#QuantitativeValue-three-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#QuantitativeValue-two-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#QuantitativeValue-one-bedroomResidentialSuite"
+        },
+        {
+          "@id": "id#QuantitativeValue-grandGaleriePenthouse"
+        }
+      ],
+      "brand": {
+        "@type": "Brand",
+        "@id": "id#Brand-theSebastian-Vail",
+        "url": "https://www.thesebastianvail.com",
+        "name": "The Sebastian - Vail",
+        "slogan": "Vail Is Like Nothing on Earth."
+      },
+      "starRating": {
+        "@type": "Rating",
+        "@id": "id#Rating-theSebastian-Vail",
+        "url": "https://www.thesebastianvail.com",
+        "name": "The Sebastian - Vail Star Rating",
+        "ratingValue": "4.6"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "@id": "id#PostalAddress-theSebastian-Vail16VailRd",
+        "name": "The Sebastian - Vail",
+        "streetAddress": "16 Vail Rd",
+        "addressLocality": "Vail",
+        "addressRegion": "CO",
+        "postalCode": "81657",
+        "addressCountry": "USA",
+        "telephone": "1-844-807-4682",
+        "email": "reservations@thesebastianvail.com",
+        "latitude": "39.6426",
+        "longitude": "-106.3780"
+      }
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "id#AggregateRating-theSebastian-Vail",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "The Sebastian - Vail Aggregate Rating",
+      "ratingCount": "462",
+      "ratingValue": "4.6",
+      "bestRating": 5,
+      "itemReviewed": {
+        "@type": "Product",
+        "@id": "id#Product-theSebastian-Vail",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "The Sebastian - Vail",
+        "aggregateRating": {
+          "@id": "id#AggregateRating-theSebastian-Vail"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "@id": "id#AggregateOffer-theSebastian-Vail",
+          "url": "https://www.thesebastianvail.com/stay",
+          "priceCurrency": "USD"
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-luxuryInteriorRoom-TwoQueens",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Luxury Interior Room - Two Queens",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Seek comfort, quiet and relaxation in this Interior View Two Queen Room, fitted with two Queen Beds. The perfect option for families, friends and destination travelers. Designed with quality furnishings, modern amenities and limited-edition artwork.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bedRoom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "name": "Bed Room",
+          "caption": "Bed Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-tv-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "name": "TV",
+          "caption": "TV",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bathroom-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "name": "Bathroom",
+          "caption": "Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-greenPlant-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "name": "Green Plant",
+          "caption": "Green Plant",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-luxuryInteriorRoom-TwoQueens_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "4"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-luxuryInteriorRoom-TwoQueens_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "2",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-luxuryInteriorRoom-TwoQueens_bedtype-2QueenBeds",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "2 Queen Beds"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-luxuryInteriorRoom-TwoQueens-2",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Luxury Interior Room - Two Queens",
+        "value": "2"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-luxuryInteriorRoom-TwoQueens",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-luxuryInteriorRoom-TwoQueens",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+          "name": "Luxury Interior Room - Two Queens reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Seek comfort, quiet and relaxation in this Interior View Two Queen Room, fitted with two Queen Beds. The perfect option for families, friends and destination travelers. Designed with quality furnishings, modern amenities and limited-edition artwork.",
+          "lodgingUnitType": "2 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Room-luxuryInteriorRoom-TwoQueens"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+          "potentialAction": {
+            "@id": "id#ReserveAction-luxuryInteriorRoom-TwoQueens"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-luxuryInteriorRoom-OneKing",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Luxury Interior Room - One King",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Seek comfort, quiet and relaxation in this Interior View King Room, fitted with one King Bed. The perfect option for couples, executives and travelers looking for extra space. Designed with quality furnishings, modern amenities and limited-edition artwork.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bedRoom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "name": "Bed Room",
+          "caption": "Bed Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-tv-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "name": "TV",
+          "caption": "TV",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bathroom-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "name": "Bathroom",
+          "caption": "Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-greenPlant-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "name": "Green Plant",
+          "caption": "Green Plant",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-luxuryInteriorRoom-OneKing_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "2"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-luxuryInteriorRoom-OneKing_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "1",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-luxuryInteriorRoom-OneKing_bedtype-1KingBed",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "1 King Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-luxuryInteriorRoom-OneKing-1",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Luxury Interior Room - One King",
+        "value": "1"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-luxuryInteriorRoom-OneKing",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-luxuryInteriorRoom-OneKing",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+          "name": "Luxury Interior Room - One King reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Seek comfort, quiet and relaxation in this Interior View King Room, fitted with one King Bed. The perfect option for couples, executives and travelers looking for extra space. Designed with quality furnishings, modern amenities and limited-edition artwork.",
+          "lodgingUnitType": "1 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Room-luxuryInteriorRoom-OneKing"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+          "potentialAction": {
+            "@id": "id#ReserveAction-luxuryInteriorRoom-OneKing"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-luxuryPlazaRoom–TwoQueens",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Luxury Plaza Room – Two Queens",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Seek comfort and relaxation in this Luxury Plaza Room, fitted with two queen beds and a window view. The ideal option for friends and families. Designed with quality furnishings, modern amenities, limited-edition artwork and a comfortable sitting space fit for relaxing or entertaining.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bedRoom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "name": "Bed Room",
+          "caption": "Bed Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-tv-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "name": "TV",
+          "caption": "TV",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bathroom-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "name": "Bathroom",
+          "caption": "Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-greenPlant-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "name": "Green Plant",
+          "caption": "Green Plant",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-luxuryPlazaRoom–TwoQueens_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "4"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-luxuryPlazaRoom–TwoQueens_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "2",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-luxuryPlazaRoom–TwoQueens_bedtype-2QueenBeds",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "2 Queen Beds"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-luxuryPlazaRoom–TwoQueens-2",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Luxury Plaza Room – Two Queens",
+        "value": "2"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-luxuryPlazaRoom–TwoQueens",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-luxuryPlazaRoom–TwoQueens",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+          "name": "Luxury Plaza Room – Two Queens reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Seek comfort and relaxation in this Luxury Plaza Room, fitted with two queen beds and a window view. The ideal option for friends and families. Designed with quality furnishings, modern amenities, limited-edition artwork and a comfortable sitting space fit for relaxing or entertaining.",
+          "lodgingUnitType": "2 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Room-luxuryPlazaRoom–TwoQueens"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+          "potentialAction": {
+            "@id": "id#ReserveAction-luxuryPlazaRoom–TwoQueens"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-luxuryPlazaRoom–OneKing",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Luxury Plaza Room – One King",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Seek comfort and relaxation in this Luxury Plaza Room, fitted with one king bed and a window view. The ideal option for couples, executives and travelers looking for extra space. Designed with quality furnishings, modern amenities, limited-edition artwork and a comfortable sitting space fit for quality time or a business meeting.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bedRoom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "name": "Bed Room",
+          "caption": "Bed Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-tv-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "name": "TV",
+          "caption": "TV",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bathroom-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "name": "Bathroom",
+          "caption": "Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-greenPlant-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "name": "Green Plant",
+          "caption": "Green Plant",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-luxuryPlazaRoom–OneKing_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "2"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-luxuryPlazaRoom–OneKing_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "1",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-luxuryPlazaRoom–OneKing_bedtype-1KingBed",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "1 King Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-luxuryPlazaRoom–OneKing-1",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Luxury Plaza Room – One King",
+        "value": "1"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-luxuryPlazaRoom–OneKing",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-luxuryPlazaRoom–OneKing",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+          "name": "Luxury Plaza Room – One King reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Seek comfort and relaxation in this Luxury Plaza Room, fitted with one king bed and a window view. The ideal option for couples, executives and travelers looking for extra space. Designed with quality furnishings, modern amenities, limited-edition artwork and a comfortable sitting space fit for quality time or a business meeting.",
+          "lodgingUnitType": "1 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Room-luxuryPlazaRoom–OneKing"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?arrive=01%2F09%2F2023&depart=01%2F10%2F2023&adults%5B0%5D=2&roomType=room",
+          "potentialAction": {
+            "@id": "id#ReserveAction-luxuryPlazaRoom–OneKing"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Suite",
+        "Product"
+      ],
+      "@id": "id#Suite-executiveTwo-bedroomSuite",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Executive Two-Bedroom Suite",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Seek luxury comfort and space in this Executive One-Bedroom Suite, fitted with one king bed. This suite features a separate living and gathering area with an additional bath plus a private ensuite space in the bedroom. The ultimate option for couples, business travelers, families and friends looking to experience Vail.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bedRoom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "name": "Bed Room",
+          "caption": "Bed Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-tv-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "name": "TV",
+          "caption": "TV",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bathroom-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "name": "Bathroom",
+          "caption": "Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-greenPlant-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "name": "Green Plant",
+          "caption": "Green Plant",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-1QueenSofaBed-5",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/10/5R5A2432_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/10/5R5A2432_edit-420x410.jpg",
+          "name": "1 Queen Sofa Bed",
+          "caption": "1 Queen Sofa Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-executiveTwo-bedroomSuite_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "6"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-executiveTwo-bedroomSuite_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "3",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-executiveTwo-bedroomSuite_bedtype-1King&2QueenBeds",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "1 King & 2 Queen Beds"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-executiveTwo-bedroomSuite-2",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Executive Two-Bedroom Suite",
+        "value": "2"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-executiveTwo-bedroomSuite",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-executiveTwo-bedroomSuite",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "name": "Executive Two-Bedroom Suite reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Seek luxury comfort and space in this Executive One-Bedroom Suite, fitted with one king bed. This suite features a separate living and gathering area with an additional bath plus a private ensuite space in the bedroom. The ultimate option for couples, business travelers, families and friends looking to experience Vail.",
+          "lodgingUnitType": "3 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Suite-executiveTwo-bedroomSuite"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-executiveTwo-bedroomSuite"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Suite",
+        "Product"
+      ],
+      "@id": "id#Suite-executiveOne-bedroomSuite",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Executive One-Bedroom Suite",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Seek luxury comfort and space in this Executive Two-Bedroom Suite, fitted with one king and two queen beds. This suite features a separate living and gathering area with an additional bath plus private ensuite spaces in each bedroom. The ultimate option for families and friends looking to experience Vail.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bedRoom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "name": "Bed Room",
+          "caption": "Bed Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-tv-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "name": "TV",
+          "caption": "TV",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bathroom-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "name": "Bathroom",
+          "caption": "Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-greenPlant-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "name": "Green Plant",
+          "caption": "Green Plant",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-2QueenBeds-5",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/10/5R5A2444_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/10/5R5A2444_edit-420x410.jpg",
+          "name": "2 Queen Beds",
+          "caption": "2 Queen Beds",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-executiveOne-bedroomSuite_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "3"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-executiveOne-bedroomSuite_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "2",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-executiveOne-bedroomSuite_bedtype-1King&1QueenSofaBed",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "1 King & 1 Queen Sofa Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-executiveOne-bedroomSuite-1",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Executive One-Bedroom Suite",
+        "value": "1"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-executiveOne-bedroomSuite",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-executiveOne-bedroomSuite",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "name": "Executive One-Bedroom Suite reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Seek luxury comfort and space in this Executive Two-Bedroom Suite, fitted with one king and two queen beds. This suite features a separate living and gathering area with an additional bath plus private ensuite spaces in each bedroom. The ultimate option for families and friends looking to experience Vail.",
+          "lodgingUnitType": "2 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Suite-executiveOne-bedroomSuite"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-executiveOne-bedroomSuite"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Suite",
+        "Product"
+      ],
+      "@id": "id#Suite-executiveTwo-bedroomSuite",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Executive Two-Bedroom Suite",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Seek luxury comfort and space in this Executive One-Bedroom Suite, fitted with one king bed. This suite features a separate living and gathering area with an additional bath plus a private ensuite space in the bedroom. The ultimate option for couples, business travelers, families and friends looking to experience Vail.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bedRoom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2594_edit-420x410.jpg",
+          "name": "Bed Room",
+          "caption": "Bed Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-tv-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2571_edit-420x410.jpg",
+          "name": "TV",
+          "caption": "TV",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bathroom-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2515_edit-420x410.jpg",
+          "name": "Bathroom",
+          "caption": "Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2459_edit-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-greenPlant-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/05/5R5A2275_edit-420x410.jpg",
+          "name": "Green Plant",
+          "caption": "Green Plant",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-1QueenSofaBed-5",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/10/5R5A2432_edit-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/10/5R5A2432_edit-420x410.jpg",
+          "name": "1 Queen Sofa Bed",
+          "caption": "1 Queen Sofa Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-executiveTwo-bedroomSuite_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "6"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-executiveTwo-bedroomSuite_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "3",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-executiveTwo-bedroomSuite_bedtype-1King&2QueenBeds",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "1 King & 2 Queen Beds"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-executiveTwo-bedroomSuite-2",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Executive Two-Bedroom Suite",
+        "value": "2"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-executiveTwo-bedroomSuite",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-executiveTwo-bedroomSuite",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "name": "Executive Two-Bedroom Suite reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Seek luxury comfort and space in this Executive One-Bedroom Suite, fitted with one king bed. This suite features a separate living and gathering area with an additional bath plus a private ensuite space in the bedroom. The ultimate option for couples, business travelers, families and friends looking to experience Vail.",
+          "lodgingUnitType": "3 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Suite-executiveTwo-bedroomSuite"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-executiveTwo-bedroomSuite"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Suite",
+        "Product"
+      ],
+      "@id": "id#Suite-four-bedroomResidentialSuite",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Four-Bedroom Residential Suite",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "The Sebastian’s most luxurious and spacious accommodations, this luxury residence includes a large living room with queen sofa sleeper, gourmet kitchen, dining area and balcony. The king bedroom and three guest rooms with one king or two queen beds each have their own HDTVs and private bathrooms.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBedroom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbedrm_70417-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbedrm_70417-420x410.jpg",
+          "name": "Master Bedroom",
+          "caption": "Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBathroom-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbathrm_70396-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbathrm_70396-420x410.jpg",
+          "name": "Master Bathroom",
+          "caption": "Master Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-dining&Kitchen-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_diningkitchen_70340-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_diningkitchen_70340-420x410.jpg",
+          "name": "Dining & Kitchen",
+          "caption": "Dining & Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_kitchenvignette_70364-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_kitchenvignette_70364-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-fireplace-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_vignette_70676-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_vignette_70676-420x410.jpg",
+          "name": "Fireplace",
+          "caption": "Fireplace",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBedroom-5",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/VCO_RESIDENCESs_master_bedrm_84886_2018_lo_res_RGB-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/VCO_RESIDENCESs_master_bedrm_84886_2018_lo_res_RGB-420x410.jpg",
+          "name": "Master Bedroom",
+          "caption": "Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-four-bedroomResidentialSuite_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "10"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-four-bedroomResidentialSuite_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "7",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-four-bedroomResidentialSuite_bedtype-2King&4QueenBeds&1QueenSofaBed",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "2 King & 4 Queen Beds & 1 Queen Sofa Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-four-bedroomResidentialSuite-4",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Four-Bedroom Residential Suite",
+        "value": "4"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-four-bedroomResidentialSuite",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-four-bedroomResidentialSuite",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "name": "Four-Bedroom Residential Suite reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "The Sebastian’s most luxurious and spacious accommodations, this luxury residence includes a large living room with queen sofa sleeper, gourmet kitchen, dining area and balcony. The king bedroom and three guest rooms with one king or two queen beds each have their own HDTVs and private bathrooms.",
+          "lodgingUnitType": "7 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Suite-four-bedroomResidentialSuite"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-four-bedroomResidentialSuite"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Suite",
+        "Product"
+      ],
+      "@id": "id#Suite-three-bedroomResidentialSuite",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Three-Bedroom Residential Suite",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Ideal for family and friends on vacation in Vail, this luxury residence includes a large living room with queen sofa sleeper, gourmet kitchen, dining area and balcony. The king bedroom and two guest rooms with one king or two queen beds each have their own HDTVs and private bathrooms.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBedroom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbedrm_70417-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbedrm_70417-420x410.jpg",
+          "name": "Master Bedroom",
+          "caption": "Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBathroom-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbathrm_70396-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbathrm_70396-420x410.jpg",
+          "name": "Master Bathroom",
+          "caption": "Master Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-dining&Kitchen-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_diningkitchen_70340-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_diningkitchen_70340-420x410.jpg",
+          "name": "Dining & Kitchen",
+          "caption": "Dining & Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_kitchenvignette_70364-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_kitchenvignette_70364-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-fireplace-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_vignette_70676-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_vignette_70676-420x410.jpg",
+          "name": "Fireplace",
+          "caption": "Fireplace",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBedroom-5",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/VCO_RESIDENCESs_master_bedrm_84886_2018_lo_res_RGB-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/VCO_RESIDENCESs_master_bedrm_84886_2018_lo_res_RGB-420x410.jpg",
+          "name": "Master Bedroom",
+          "caption": "Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-livingRoom-6",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/12/WEB_LOWRES_timbers_sebastian_res_livngrm2_70311-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/12/WEB_LOWRES_timbers_sebastian_res_livngrm2_70311-420x410.jpg",
+          "name": "Living Room",
+          "caption": "Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-three-bedroomResidentialSuite_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "8"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-three-bedroomResidentialSuite_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "5",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-three-bedroomResidentialSuite_bedtype-2King&2QueenBeds&1QueenSofaBed",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "2 King & 2 Queen Beds & 1 Queen Sofa Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-three-bedroomResidentialSuite-3",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Three-Bedroom Residential Suite",
+        "value": "3"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-three-bedroomResidentialSuite",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-three-bedroomResidentialSuite",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "name": "Three-Bedroom Residential Suite reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Ideal for family and friends on vacation in Vail, this luxury residence includes a large living room with queen sofa sleeper, gourmet kitchen, dining area and balcony. The king bedroom and two guest rooms with one king or two queen beds each have their own HDTVs and private bathrooms.",
+          "lodgingUnitType": "5 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Suite-three-bedroomResidentialSuite"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-three-bedroomResidentialSuite"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Suite",
+        "Product"
+      ],
+      "@id": "id#Suite-two-bedroomResidentialSuite",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Two-Bedroom Residential Suite",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "This comfortably elegant residential suite includes a large living room with queen sofa sleeper, fully equipped gourmet kitchen, dining area and balcony. Additionally, the king bedroom and second bedroom with two queen beds each have their own HDTVs and private bathrooms.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBedroom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbedrm_70417-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbedrm_70417-420x410.jpg",
+          "name": "Master Bedroom",
+          "caption": "Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBathroom-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbathrm_70396-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbathrm_70396-420x410.jpg",
+          "name": "Master Bathroom",
+          "caption": "Master Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-dining&Kitchen-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_diningkitchen_70340-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_diningkitchen_70340-420x410.jpg",
+          "name": "Dining & Kitchen",
+          "caption": "Dining & Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_kitchenvignette_70364-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_kitchenvignette_70364-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-fireplace-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_vignette_70676-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_vignette_70676-420x410.jpg",
+          "name": "Fireplace",
+          "caption": "Fireplace",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBedroom-5",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/VCO_RESIDENCESs_master_bedrm_84886_2018_lo_res_RGB-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/VCO_RESIDENCESs_master_bedrm_84886_2018_lo_res_RGB-420x410.jpg",
+          "name": "Master Bedroom",
+          "caption": "Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-livingRoom-6",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/12/WEB_LOWRES_timbers_sebastian_res_livngrm_70274-1-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/12/WEB_LOWRES_timbers_sebastian_res_livngrm_70274-1-420x410.jpg",
+          "name": "Living Room",
+          "caption": "Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-two-bedroomResidentialSuite_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "6"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-two-bedroomResidentialSuite_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "4",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-two-bedroomResidentialSuite_bedtype-1King&2QueenBeds&1QueenSofaBed",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "1 King & 2 Queen Beds & 1 Queen Sofa Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-two-bedroomResidentialSuite-2",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Two-Bedroom Residential Suite",
+        "value": "2"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-two-bedroomResidentialSuite",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-two-bedroomResidentialSuite",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "name": "Two-Bedroom Residential Suite reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "This comfortably elegant residential suite includes a large living room with queen sofa sleeper, fully equipped gourmet kitchen, dining area and balcony. Additionally, the king bedroom and second bedroom with two queen beds each have their own HDTVs and private bathrooms.",
+          "lodgingUnitType": "4 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Suite-two-bedroomResidentialSuite"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-two-bedroomResidentialSuite"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Suite",
+        "Product"
+      ],
+      "@id": "id#Suite-one-bedroomResidentialSuite",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "One-Bedroom Residential Suite",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Featuring a spacious separate bedroom with king bed and private ensuite, our luxurious One-Bedroom Residential Suite includes a large living room with a queen sofa sleeper, fully equipped gourmet kitchen, dining area, powder room, rich furnishings and a balcony showcasing views of Vail.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBedroom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbedrm_70417-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbedrm_70417-420x410.jpg",
+          "name": "Master Bedroom",
+          "caption": "Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBathroom-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbathrm_70396-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_masterbathrm_70396-420x410.jpg",
+          "name": "Master Bathroom",
+          "caption": "Master Bathroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-dining&Kitchen-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_diningkitchen_70340-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_diningkitchen_70340-420x410.jpg",
+          "name": "Dining & Kitchen",
+          "caption": "Dining & Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-coffeeMachine-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_kitchenvignette_70364-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_kitchenvignette_70364-420x410.jpg",
+          "name": "Coffee Machine",
+          "caption": "Coffee Machine",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-fireplace-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_vignette_70676-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/WEB_LOWRES_timbers_sebastian_res_vignette_70676-420x410.jpg",
+          "name": "Fireplace",
+          "caption": "Fireplace",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-masterBedroom-5",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/VCO_RESIDENCESs_master_bedrm_84886_2018_lo_res_RGB-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/VCO_RESIDENCESs_master_bedrm_84886_2018_lo_res_RGB-420x410.jpg",
+          "name": "Master Bedroom",
+          "caption": "Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-livingRoom-6",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/12/WEB_LOWRES_timbers_sebastian_res_livngrm_70274-1-420x410.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/12/WEB_LOWRES_timbers_sebastian_res_livngrm_70274-1-420x410.jpg",
+          "name": "Living Room",
+          "caption": "Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-one-bedroomResidentialSuite_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "3"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-one-bedroomResidentialSuite_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "2",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-one-bedroomResidentialSuite_bedtype-1King&1QueenSofaBed",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "1 King & 1 Queen Sofa Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-one-bedroomResidentialSuite-1",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "One-Bedroom Residential Suite",
+        "value": "1"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-one-bedroomResidentialSuite",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-one-bedroomResidentialSuite",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "name": "One-Bedroom Residential Suite reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Featuring a spacious separate bedroom with king bed and private ensuite, our luxurious One-Bedroom Residential Suite includes a large living room with a queen sofa sleeper, fully equipped gourmet kitchen, dining area, powder room, rich furnishings and a balcony showcasing views of Vail.",
+          "lodgingUnitType": "2 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Suite-one-bedroomResidentialSuite"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1?data=('h5hd!'sebastian'~a6dt.fs-~r5at!2~cn!0~cg-~al3po.gp.rn-)4ry.rk.re-~rr*)4ax!0~cy.ds!('p6ls.as.st*)~my3s6c6ne*)*!null-1%5D.*~1!%5B3!false~4%5D~5s1('6e.%0165431.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-one-bedroomResidentialSuite"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-grandGaleriePenthouse",
+      "url": "https://www.thesebastianvail.com/stay",
+      "name": "Grand Galerie Penthouse",
+      "smokingAllowed": "false",
+      "tourBookingPage": "https://www.thesebastianvail.com/stay",
+      "description": "Enjoy the most exclusive and impressive penthouse in Vail. Spacious with sophisticated selections of custom furnishings, our Grand Galerie Penthouse features approximately 5,300-square-feet of living space, including 5 bedrooms, 5.5 bathrooms, media room, dining room with a cathedral skylight and living room with a fireplace and a remarkable Italian handcrafted Gullo Firenze kitchen. This one-of-a-kind penthouse defines mountain luxury with 360-degree views and awe-inspiring art collection featuring notable Mexican artists.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-theSebastian-Vail"
+      },
+      "brand": {
+        "@id": "id#Brand-theSebastian-Vail"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-theSebastian-Vail"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-airConditioning",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Air conditioning",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffeeMachine",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Coffee machine",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-desk",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Desk",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-in-roomSafe",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "In-room safe",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-rainShower",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Rain shower",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-robesAndSlippers",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Robes and slippers",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-tv",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "TV",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-wi-fi",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "Wi-Fi",
+          "value": true
+        }
+      ],
+      "petsAllowed": true,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-grandGaleriePenthouseLivingRoom-0",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/GC_MartDSC_2129-Edit-scaled.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2022/11/GC_MartDSC_2129-Edit-scaled.jpg",
+          "name": "Grand Galerie Penthouse Living Room",
+          "caption": "Grand Galerie Penthouse Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-grandGaleriePenthouseMasterBedroom-1",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/01/GC_MartDSC_2074-Edit-scaled.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/01/GC_MartDSC_2074-Edit-scaled.jpg",
+          "name": "Grand Galerie Penthouse Master Bedroom",
+          "caption": "Grand Galerie Penthouse Master Bedroom",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-grandGaleriePenthouseDining-2",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/01/GC_MartDSC_2435-Edit-scaled.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/01/GC_MartDSC_2435-Edit-scaled.jpg",
+          "name": "Grand Galerie Penthouse Dining",
+          "caption": "Grand Galerie Penthouse Dining",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-grandGaleriePenthousExterior-3",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/01/GC_MartDSC_2134-scaled.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/01/GC_MartDSC_2134-scaled.jpg",
+          "name": "Grand Galerie Penthous Exterior",
+          "caption": "Grand Galerie Penthous Exterior",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-grandGaleriePenthousPaiting-4",
+          "url": "https://www.thesebastianvail.com/wp-content/uploads/2023/01/GC_MartDSC_2202-Edit-scaled.jpg",
+          "contentUrl": "https://www.thesebastianvail.com/wp-content/uploads/2023/01/GC_MartDSC_2202-Edit-scaled.jpg",
+          "name": "Grand Galerie Penthous Paiting",
+          "caption": "Grand Galerie Penthous Paiting",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "The Sebastian - Vail",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-theSebastian-Vail"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-grandGaleriePenthouse_occupancy",
+        "url": "https://www.thesebastianvail.com/stay",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "12"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-grandGaleriePenthouse_bed",
+        "url": "https://www.thesebastianvail.com/stay",
+        "numberOfBeds": "6",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-grandGaleriePenthouse_bedtype-4King&2Bunkbeds",
+          "url": "https://www.thesebastianvail.com/stay",
+          "name": "4 King & 2 Bunkbeds"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-grandGaleriePenthouse-5",
+        "url": "https://www.thesebastianvail.com/stay",
+        "unitText": "Grand Galerie Penthouse",
+        "value": "5"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-grandGaleriePenthouse",
+        "url": "https://www.thesebastianvail.com/#/booking/step-1",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-theSebastian-Vail"
+        },
+        "target": "https://www.thesebastianvail.com/#/booking/step-1",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-grandGaleriePenthouse",
+          "url": "https://www.thesebastianvail.com/#/booking/step-1",
+          "name": "Grand Galerie Penthouse reservation",
+          "mainEntityOfPage": "https://www.thesebastianvail.com/stay",
+          "checkinTime": "16:00",
+          "checkoutTime": "11:00",
+          "lodgingUnitDescription": "Enjoy the most exclusive and impressive penthouse in Vail. Spacious with sophisticated selections of custom furnishings, our Grand Galerie Penthouse features approximately 5,300-square-feet of living space, including 5 bedrooms, 5.5 bathrooms, media room, dining room with a cathedral skylight and living room with a fireplace and a remarkable Italian handcrafted Gullo Firenze kitchen. This one-of-a-kind penthouse defines mountain luxury with 360-degree views and awe-inspiring art collection featuring notable Mexican artists.",
+          "lodgingUnitType": "6 total beds",
+          "provider": {
+            "@id": "id#Resort-theSebastian-Vail"
+          },
+          "reservationFor": {
+            "@id": "id#Room-grandGaleriePenthouse"
+          },
+          "subjectOf": "https://www.thesebastianvail.com/#/booking/step-1",
+          "potentialAction": {
+            "@id": "id#ReserveAction-grandGaleriePenthouse"
+          }
+        }
+      }
+    }
+  ]
+}
