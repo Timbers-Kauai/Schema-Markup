@@ -1,0 +1,68 @@
+{
+  "name": "Andiamo",
+  "type": "Organization",
+  "homepage": "https://www.andiamocollection.com",
+  "slogan": "Where you stay should be just as special as where you go.",
+  "description": "Vacation in exceptional villas, residences and city suites — rarely available without ownership or membership — at the best locations in the world’s most sought-after destinations.",
+  "logoUrl": "https://www.andiamocollection.com/content/themes/base/assets/img/andiamo-header-logo.svg",
+  "copyrightUrl": "https://www.andiamocollection.com/terms-of-use",
+  "facebookUrl": "https://www.facebook.com/andiamocollection",
+  "instagramUrl": "https://www.instagram.com/andiamocollection",
+  "propertyKeys": [
+    {
+      "name": "The Sebastian – Vail",
+      "featureUrl": "https://www.andiamocollection.com/stay-with-us/the-sebastian-vail",
+      "propertyUrl": "https://www.thesebastianvail.com",
+      "logoUrl": "https://www.thesebastianvail.com/wp-content/themes/sebastianvail/assets/img/logo-sebastianvail-white.png",
+      "imageUrl": "https://www.andiamocollection.com/content/uploads/2023/09/FVOC_Exterior_ext_5437_SOC_02_2019_lo_res_RGB-2-710x550.jpg"
+    },
+    {
+      "name": "Casali di Casole",
+      "featureUrl": "https://www.andiamocollection.com/stay-with-us/casali-di-casole",
+      "propertyUrl": "https://www.casalidicasole.com",
+      "logoUrl": "https://www.casalidicasole.com/wp-content/themes/casali/assets/img/logo-casalidicasole.png",
+      "imageUrl": "https://www.andiamocollection.com/content/uploads/2023/09/CDC_LaFonte_Exterior_mid_res_CMYK-7-1-710x550.jpeg"
+    },
+    {
+      "name": "Timbers Kaua’i",
+      "featureUrl": "https://www.andiamocollection.com/stay-with-us/timbers-kauai",
+      "propertyUrl": "https://www.timberskauai.com",
+      "logoUrl": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
+      "imageUrl": "https://www.andiamocollection.com/content/uploads/2023/09/TKAU_pool2_1640x800-710x550.jpg"
+    },
+    {
+      "name": "5th & 55th Residence Club",
+      "featureUrl": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club",
+      "propertyUrl": "",
+      "logoUrl": "",
+      "imageUrl": "https://www.andiamocollection.com/content/uploads/2023/08/5th55th_studio2_87813_hi_res_RGB-710x550.jpg"
+    },
+    {
+      "name": "Timbers Jupiter",
+      "featureUrl": "https://www.andiamocollection.com/stay-with-us/timbers-jupiter",
+      "propertyUrl": "https://www.timbersjupiter.com",
+      "logoUrl": "https://www.timbersjupiter.com/wp-content/themes/jupiter/assets/img/logo-jupiter.png",
+      "imageUrl": "https://www.andiamocollection.com/content/uploads/2023/09/JUP_Residence_Exteriors_pond1_14362_lo_res_RGB-710x550.jpg"
+    },
+    {
+      "name": "South Seas",
+      "featureUrl": "https://www.andiamocollection.com/stay-with-us/south-seas",
+      "propertyUrl": "https://www.southseas.com",
+      "logoUrl": "https://www.southseas.com/wp-content/themes/southseas/img/logo.png",
+      "imageUrl": "https://www.andiamocollection.com/content/uploads/2023/10/MicrosoftTeams-image-54-710x550.jpg"
+    }
+  ],
+  "contact": {
+    "phone": "1-855-424-1015",
+    "email": ""
+  },
+  "location": {
+    "street": "1031 W. Morse Blvd., Suite 350",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789",
+    "country": "USA",
+    "lat": "28.5982667",
+    "long": "-81.3628682"
+  }
+}

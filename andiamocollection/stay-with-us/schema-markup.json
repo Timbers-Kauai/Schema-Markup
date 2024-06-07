@@ -1,0 +1,157 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "id#WebSite-andiamo",
+      "url": "https://www.andiamocollection.com",
+      "name": "Andiamo"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "id#ImageObject-andiamo#logo",
+      "url": "https://www.andiamocollection.com/content/themes/base/assets/img/andiamo-header-logo.svg",
+      "contentUrl": "https://www.andiamocollection.com/content/themes/base/assets/img/andiamo-header-logo.svg",
+      "name": "Andiamo logo",
+      "caption": "Andiamo logo",
+      "copyrightNotice": "All rights reserved | Andiamo",
+      "creditText": "Andiamo",
+      "license": "https://www.andiamocollection.com/terms-of-use",
+      "acquireLicensePage": "https://www.andiamocollection.com/terms-of-use",
+      "creator": {
+        "@id": "id#Organization-andiamo"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "id#WebPage-https://www.andiamocollection.com/stay-with-us",
+      "url": "https://www.andiamocollection.com/stay-with-us",
+      "name": "Stay with Us",
+      "isPartOf": {
+        "id": "id#WebSite-andiamo"
+      },
+      "about": {
+        "@id": "id#Organization-andiamo"
+      },
+      "breadcrumb": {
+        "@id": "id#BreadcrumbList-https://www.andiamocollection.com/stay-with-us"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "@id": "id#SpeakableSpecification-https://www.andiamocollection.com/stay-with-us",
+        "url": "https://www.andiamocollection.com/stay-with-us",
+        "xPath": [
+          "/html/head/title",
+          "/html/head/meta[@name=description]/@content"
+        ]
+      },
+      "sdPublisher": [
+        {
+          "@type": "Organization",
+          "@id": "https://hooray.agency#organization",
+          "url": "https://hooray.agency",
+          "name": "Hooray Agency",
+          "sameAs": [
+            "https://www.linkedin.com/company/hooray-agency"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://www.jakelabate.com#person",
+          "url": "https://www.jakelabate.com",
+          "name": "Jake Labate",
+          "title": "SEO Consultant",
+          "sameAs": [
+            "https://www.linkedin.com/in/jakelabate"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "id#BreadcrumbList-https://www.andiamocollection.com/stay-with-us",
+      "url": "https://www.andiamocollection.com/stay-with-us",
+      "name": "Stay with Us",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "@id": "id#ListItem-https://www.andiamocollection.com/stay-with-us#breadcrumblistitem-0",
+          "url": "https://www.andiamocollection.com/stay-with-us",
+          "item": "https://www.andiamocollection.com/stay-with-us",
+          "name": "Stay with Us",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "id#Organization-andiamo",
+      "url": "https://www.andiamocollection.com",
+      "name": "Andiamo",
+      "description": "Vacation in exceptional villas, residences and city suites — rarely available without ownership or membership — at the best locations in the world’s most sought-after destinations.",
+      "sameAs": [
+        "https://www.facebook.com/andiamocollection",
+        "https://www.instagram.com/andiamocollection"
+      ],
+      "logo": {
+        "@id": "id#ImageObject-andiamo#logo"
+      },
+      "image": {
+        "@id": "id#ImageObject-andiamo#logo"
+      },
+      "containsPlace": [],
+      "amenityFeature": [],
+      "numberOfRooms": "",
+      "brand": {
+        "@type": "Brand",
+        "@id": "id#Brand-andiamo",
+        "url": "https://www.andiamocollection.com",
+        "name": "Andiamo",
+        "slogan": "Where you stay should be just as special as where you go."
+      },
+      "starRating": {
+        "@type": "Rating",
+        "@id": "id#Rating-andiamo",
+        "url": "https://www.andiamocollection.com",
+        "name": "Andiamo Star Rating",
+        "ratingValue": ""
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "@id": "id#PostalAddress-andiamo1031W.MorseBlvd.,Suite350",
+        "name": "Andiamo",
+        "streetAddress": "1031 W. Morse Blvd., Suite 350",
+        "addressLocality": "Winter Park",
+        "addressRegion": "FL",
+        "postalCode": "32789",
+        "addressCountry": "USA",
+        "telephone": "1-855-424-1015",
+        "email": "",
+        "latitude": "28.5982667",
+        "longitude": "-81.3628682"
+      }
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "id#AggregateRating-andiamo",
+      "url": "https://www.andiamocollection.com/stay-with-us",
+      "name": "Andiamo Aggregate Rating",
+      "bestRating": 5,
+      "itemReviewed": {
+        "@type": "Product",
+        "@id": "id#Product-andiamo",
+        "url": "https://www.andiamocollection.com/stay-with-us",
+        "name": "Andiamo",
+        "aggregateRating": {
+          "@id": "id#AggregateRating-andiamo"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "@id": "id#AggregateOffer-andiamo",
+          "url": "https://www.andiamocollection.com/stay-with-us",
+          "priceCurrency": "USD"
+        }
+      }
+    }
+  ]
+}
