@@ -1,0 +1,496 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "id#WebSite-timbersKaua‘i–OceanClub&Residences",
+      "url": "https://www.timberskauai.com",
+      "name": "Timbers Kaua‘i – Ocean Club & Residences"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "id#ImageObject-timbersKaua‘i–OceanClub&Residences#logo",
+      "url": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
+      "contentUrl": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
+      "name": "Timbers Kaua‘i – Ocean Club & Residences logo",
+      "caption": "Timbers Kaua‘i – Ocean Club & Residences logo",
+      "copyrightNotice": "All rights reserved | Timbers Kaua‘i – Ocean Club & Residences",
+      "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+      "license": "https://www.timbersresorts.com/privacy",
+      "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+      "creator": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "id#WebPage-https://www.timberskauai.com/talk-story-with-chris-gampon",
+      "url": "https://www.timberskauai.com/talk-story-with-chris-gampon",
+      "name": "Talk Story with Chris Gampon",
+      "isPartOf": {
+        "id": "id#WebSite-timbersKaua‘i–OceanClub&Residences"
+      },
+      "about": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      },
+      "breadcrumb": {
+        "@id": "id#BreadcrumbList-https://www.timberskauai.com/talk-story-with-chris-gampon"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "@id": "id#SpeakableSpecification-https://www.timberskauai.com/talk-story-with-chris-gampon",
+        "url": "https://www.timberskauai.com/talk-story-with-chris-gampon",
+        "xPath": [
+          "/html/head/title",
+          "/html/head/meta[@name=description]/@content"
+        ]
+      },
+      "sdPublisher": [
+        {
+          "@type": "Organization",
+          "@id": "https://hooray.agency#organization",
+          "url": "https://hooray.agency",
+          "name": "Hooray Agency",
+          "sameAs": [
+            "https://www.linkedin.com/company/hooray-agency"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://www.jakelabate.com#person",
+          "url": "https://www.jakelabate.com",
+          "name": "Jake Labate",
+          "title": "SEO Consultant",
+          "sameAs": [
+            "https://www.linkedin.com/in/jakelabate"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "id#BreadcrumbList-https://www.timberskauai.com/talk-story-with-chris-gampon",
+      "url": "https://www.timberskauai.com/talk-story-with-chris-gampon",
+      "name": "Talk Story with Chris Gampon",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "@id": "id#ListItem-https://www.timberskauai.com/talk-story-with-chris-gampon#breadcrumblistitem-0",
+          "url": "https://www.timberskauai.com/talk-story-with-chris-gampon",
+          "item": "https://www.timberskauai.com/talk-story-with-chris-gampon",
+          "name": "Talk Story with Chris Gampon",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "@type": "Resort",
+      "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences",
+      "url": "https://www.timberskauai.com",
+      "name": "Timbers Kaua‘i – Ocean Club & Residences",
+      "description": "Timbers Kaua’i is proud to be part of the Timbers Resorts portfolio. This collection of luxury properties is characterized by several unique elements that make our resorts the finest in the world. For more than two decades, Timbers Resorts has been crafting the settings for families and friends to come together and create lasting memories in some of the most special places on Earth.",
+      "checkinTime": "16:00",
+      "checkoutTime": "09:00",
+      "petsAllowed": false,
+      "sameAs": [
+        "https://www.facebook.com/timberskauai",
+        "https://www.instagram.com/timberskauai",
+        "https://www.linkedin.com/company/timbers-kaua'i/about"
+      ],
+      "currenciesAccepted": [
+        "USD"
+      ],
+      "paymentAccepted": [
+        "Credit Card",
+        "Debit Card"
+      ],
+      "availableLanguage": [
+        "English",
+        "Spanish"
+      ],
+      "priceRange": "$$$",
+      "logo": {
+        "@id": "id#ImageObject-timbersKaua‘i–OceanClub&Residences#logo"
+      },
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-ownWithUs-0",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2102_liv_rm_view_95214_lo_res_RGB-960x960.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2102_liv_rm_view_95214_lo_res_RGB-960x960.jpg",
+          "name": "Own with us",
+          "caption": "Own with us",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-stayWithUs-1",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bed_93994_lo_res_RGB-e1682469385442-718x730.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bed_93994_lo_res_RGB-e1682469385442-718x730.jpg",
+          "name": "Stay with us",
+          "caption": "Stay with us",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-maliulaResidences-2",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1775x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1775x800.jpg",
+          "name": "Maliula residences",
+          "caption": "Maliula residences",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoResidences-3",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1775x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1775x800.jpg",
+          "name": "Kaiholo residences",
+          "caption": "Kaiholo residences",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-laolaResidences-4",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lr_4660_lo_res_RGB-1775x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lr_4660_lo_res_RGB-1775x800.jpg",
+          "name": "Laola Residences",
+          "caption": "Laola Residences",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-laolaNaniResidences-5",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-002-A-1500x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-002-A-1500x800.jpg",
+          "name": "Laola Nani Residences",
+          "caption": "Laola Nani Residences",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bookEarly&Save-6",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/DSC_1311-570x372.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/03/DSC_1311-570x372.jpg",
+          "name": "Book Early & Save",
+          "caption": "Book Early & Save",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-4thNightFree-7",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-570x372.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-570x372.jpg",
+          "name": "4th Night Free",
+          "caption": "4th Night Free",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-experienceHōkūala-8",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Aerial_0021_lo_res_RGB-570x372.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Aerial_0021_lo_res_RGB-570x372.jpg",
+          "name": "Experience Hōkūala",
+          "caption": "Experience Hōkūala",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-theOceanCourseAtHōkūala-9",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Golf_Dyer_3154_2015_10_05_lo_res_RGB-747x460.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Golf_Dyer_3154_2015_10_05_lo_res_RGB-747x460.jpg",
+          "name": "The Ocean Course at Hōkūala",
+          "caption": "The Ocean Course at Hōkūala",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        }
+      ],
+      "containsPlace": [
+        {
+          "@id": "id#Room-kaiholo3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#Room-kaiholo4-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#Room-kaiholo3-bedroomOceanFrontResidence"
+        },
+        {
+          "@id": "id#Room-kaiholo3-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#Room-kaiholo4-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#Room-maliula2-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#Room-maliula2-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomPremierAccessibleResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomSuperiorAccessibleResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomPremierResidence"
+        },
+        {
+          "@id": "id#Room-laola3-bedroomTownhouse"
+        },
+        {
+          "@id": "id#Room-laola4-bedroomTownhouse"
+        },
+        {
+          "@id": "id#Room-laola4-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#Room-laolaNani3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo4-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo3-bedroomOceanFrontResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo3-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo4-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula2-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula2-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomPremierAccessibleResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomSuperiorAccessibleResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomPremierResidence"
+        },
+        {
+          "@id": "id#VacationRental-laola3-bedroomTownhouse"
+        },
+        {
+          "@id": "id#VacationRental-laola4-bedroomTownhouse"
+        },
+        {
+          "@id": "id#VacationRental-laola4-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#VacationRental-laolaNani3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#RealEstateListing-lāola1003"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2006"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2005"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2004"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2003"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2002"
+        },
+        {
+          "@id": "id#RealEstateListing-maliulā2206"
+        },
+        {
+          "@id": "id#RealEstateListing-maliulā2405"
+        },
+        {
+          "@id": "id#Restaurant-hualani’s"
+        }
+      ],
+      "numberOfRooms": [
+        {
+          "@id": "id#QuantitativeValue-kaiholo3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-kaiholo4-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-kaiholo3-bedroomOceanFrontResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-kaiholo3-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-kaiholo4-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula2-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula2-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomPremierAccessibleResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomSuperiorAccessibleResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomPremierResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-laola3-bedroomTownhouse"
+        },
+        {
+          "@id": "id#QuantitativeValue-laola4-bedroomTownhouse"
+        },
+        {
+          "@id": "id#QuantitativeValue-laola4-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-laolaNani3-bedroomSignatureResidence"
+        }
+      ],
+      "brand": {
+        "@type": "Brand",
+        "@id": "id#Brand-timbersKaua‘i–OceanClub&Residences",
+        "url": "https://www.timberskauai.com",
+        "name": "Timbers Kaua‘i – Ocean Club & Residences",
+        "slogan": "Living the Spirit of Aloha"
+      },
+      "starRating": {
+        "@type": "Rating",
+        "@id": "id#Rating-timbersKaua‘i–OceanClub&Residences",
+        "url": "https://www.timberskauai.com",
+        "name": "Timbers Kaua‘i – Ocean Club & Residences Star Rating",
+        "ratingValue": "4.8"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "@id": "id#PostalAddress-timbersKaua‘i–OceanClub&Residences3770Ala’oliWay",
+        "name": "Timbers Kaua‘i – Ocean Club & Residences",
+        "streetAddress": "3770 Ala’oli Way",
+        "addressLocality": "Lihue",
+        "addressRegion": "HI",
+        "postalCode": "96766",
+        "addressCountry": "USA",
+        "telephone": "1-844-440-7572",
+        "email": "info@timberskauai.com",
+        "latitude": "21.9583",
+        "longitude": "-159.3451"
+      }
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences",
+      "url": "https://www.timberskauai.com/talk-story-with-chris-gampon",
+      "name": "Timbers Kaua‘i – Ocean Club & Residences Aggregate Rating",
+      "ratingCount": "135",
+      "ratingValue": "4.8",
+      "bestRating": 5,
+      "itemReviewed": {
+        "@type": "Product",
+        "@id": "id#Product-timbersKaua‘i–OceanClub&Residences",
+        "url": "https://www.timberskauai.com/talk-story-with-chris-gampon",
+        "name": "Timbers Kaua‘i – Ocean Club & Residences",
+        "aggregateRating": {
+          "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "@id": "id#AggregateOffer-timbersKaua‘i–OceanClub&Residences",
+          "url": "https://www.timberskauai.com/talk-story-with-chris-gampon",
+          "priceCurrency": "USD"
+        }
+      }
+    }
+  ]
+}

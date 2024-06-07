@@ -1,0 +1,2264 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "id#WebSite-timbersKaua‘i–OceanClub&Residences",
+      "url": "https://www.timberskauai.com",
+      "name": "Timbers Kaua‘i – Ocean Club & Residences"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "id#ImageObject-timbersKaua‘i–OceanClub&Residences#logo",
+      "url": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
+      "contentUrl": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
+      "name": "Timbers Kaua‘i – Ocean Club & Residences logo",
+      "caption": "Timbers Kaua‘i – Ocean Club & Residences logo",
+      "copyrightNotice": "All rights reserved | Timbers Kaua‘i – Ocean Club & Residences",
+      "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+      "license": "https://www.timbersresorts.com/privacy",
+      "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+      "creator": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "id#WebPage-https://www.timberskauai.com/stay/kaiholo-residences",
+      "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "name": "Kaiholo Residences",
+      "isPartOf": {
+        "id": "id#WebSite-timbersKaua‘i–OceanClub&Residences"
+      },
+      "about": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      },
+      "breadcrumb": {
+        "@id": "id#BreadcrumbList-https://www.timberskauai.com/stay/kaiholo-residences"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "@id": "id#SpeakableSpecification-https://www.timberskauai.com/stay/kaiholo-residences",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "xPath": [
+          "/html/head/title",
+          "/html/head/meta[@name=description]/@content"
+        ]
+      },
+      "sdPublisher": [
+        {
+          "@type": "Organization",
+          "@id": "https://hooray.agency#organization",
+          "url": "https://hooray.agency",
+          "name": "Hooray Agency",
+          "sameAs": [
+            "https://www.linkedin.com/company/hooray-agency"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://www.jakelabate.com#person",
+          "url": "https://www.jakelabate.com",
+          "name": "Jake Labate",
+          "title": "SEO Consultant",
+          "sameAs": [
+            "https://www.linkedin.com/in/jakelabate"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "id#BreadcrumbList-https://www.timberskauai.com/stay/kaiholo-residences",
+      "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "name": "Kaiholo Residences",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "@id": "id#ListItem-https://www.timberskauai.com/stay#breadcrumblistitem-0",
+          "url": "https://www.timberskauai.com/stay",
+          "item": "https://www.timberskauai.com/stay",
+          "name": "Stay",
+          "position": 1
+        },
+        {
+          "@type": "ListItem",
+          "@id": "id#ListItem-https://www.timberskauai.com/stay/kaiholo-residences#breadcrumblistitem-1",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "item": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Kaiholo Residences",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "@type": "Resort",
+      "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences",
+      "url": "https://www.timberskauai.com",
+      "name": "Timbers Kaua‘i – Ocean Club & Residences",
+      "description": "Timbers Kaua’i is proud to be part of the Timbers Resorts portfolio. This collection of luxury properties is characterized by several unique elements that make our resorts the finest in the world. For more than two decades, Timbers Resorts has been crafting the settings for families and friends to come together and create lasting memories in some of the most special places on Earth.",
+      "checkinTime": "16:00",
+      "checkoutTime": "09:00",
+      "petsAllowed": false,
+      "sameAs": [
+        "https://www.facebook.com/timberskauai",
+        "https://www.instagram.com/timberskauai",
+        "https://www.linkedin.com/company/timbers-kaua'i/about"
+      ],
+      "currenciesAccepted": [
+        "USD"
+      ],
+      "paymentAccepted": [
+        "Credit Card",
+        "Debit Card"
+      ],
+      "availableLanguage": [
+        "English",
+        "Spanish"
+      ],
+      "priceRange": "$$$",
+      "logo": {
+        "@id": "id#ImageObject-timbersKaua‘i–OceanClub&Residences#logo"
+      },
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-ownWithUs-0",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2102_liv_rm_view_95214_lo_res_RGB-960x960.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2102_liv_rm_view_95214_lo_res_RGB-960x960.jpg",
+          "name": "Own with us",
+          "caption": "Own with us",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-stayWithUs-1",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bed_93994_lo_res_RGB-e1682469385442-718x730.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bed_93994_lo_res_RGB-e1682469385442-718x730.jpg",
+          "name": "Stay with us",
+          "caption": "Stay with us",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-maliulaResidences-2",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1775x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1775x800.jpg",
+          "name": "Maliula residences",
+          "caption": "Maliula residences",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoResidences-3",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1775x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1775x800.jpg",
+          "name": "Kaiholo residences",
+          "caption": "Kaiholo residences",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-laolaResidences-4",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lr_4660_lo_res_RGB-1775x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lr_4660_lo_res_RGB-1775x800.jpg",
+          "name": "Laola Residences",
+          "caption": "Laola Residences",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-laolaNaniResidences-5",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-002-A-1500x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-002-A-1500x800.jpg",
+          "name": "Laola Nani Residences",
+          "caption": "Laola Nani Residences",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-bookEarly&Save-6",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/DSC_1311-570x372.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/03/DSC_1311-570x372.jpg",
+          "name": "Book Early & Save",
+          "caption": "Book Early & Save",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-4thNightFree-7",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-570x372.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-570x372.jpg",
+          "name": "4th Night Free",
+          "caption": "4th Night Free",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-experienceHōkūala-8",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Aerial_0021_lo_res_RGB-570x372.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Aerial_0021_lo_res_RGB-570x372.jpg",
+          "name": "Experience Hōkūala",
+          "caption": "Experience Hōkūala",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-theOceanCourseAtHōkūala-9",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Golf_Dyer_3154_2015_10_05_lo_res_RGB-747x460.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Golf_Dyer_3154_2015_10_05_lo_res_RGB-747x460.jpg",
+          "name": "The Ocean Course at Hōkūala",
+          "caption": "The Ocean Course at Hōkūala",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        }
+      ],
+      "containsPlace": [
+        {
+          "@id": "id#Room-kaiholo3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#Room-kaiholo4-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#Room-kaiholo3-bedroomOceanFrontResidence"
+        },
+        {
+          "@id": "id#Room-kaiholo3-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#Room-kaiholo4-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#Room-maliula2-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#Room-maliula2-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomPremierAccessibleResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomSuperiorAccessibleResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#Room-maliula3-bedroomPremierResidence"
+        },
+        {
+          "@id": "id#Room-laola3-bedroomTownhouse"
+        },
+        {
+          "@id": "id#Room-laola4-bedroomTownhouse"
+        },
+        {
+          "@id": "id#Room-laola4-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#Room-laolaNani3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo4-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo3-bedroomOceanFrontResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo3-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#VacationRental-kaiholo4-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula2-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula2-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomPremierAccessibleResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomSuperiorAccessibleResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#VacationRental-maliula3-bedroomPremierResidence"
+        },
+        {
+          "@id": "id#VacationRental-laola3-bedroomTownhouse"
+        },
+        {
+          "@id": "id#VacationRental-laola4-bedroomTownhouse"
+        },
+        {
+          "@id": "id#VacationRental-laola4-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#VacationRental-laolaNani3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#RealEstateListing-lāola1003"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2006"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2005"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2004"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2003"
+        },
+        {
+          "@id": "id#RealEstateListing-lāolaNani2002"
+        },
+        {
+          "@id": "id#RealEstateListing-maliulā2206"
+        },
+        {
+          "@id": "id#RealEstateListing-maliulā2405"
+        },
+        {
+          "@id": "id#Restaurant-hualani’s"
+        }
+      ],
+      "numberOfRooms": [
+        {
+          "@id": "id#QuantitativeValue-kaiholo3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-kaiholo4-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-kaiholo3-bedroomOceanFrontResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-kaiholo3-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-kaiholo4-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula2-bedroomSuperiorResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula2-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomPremierAccessibleResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomSuperiorAccessibleResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomSignatureResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-maliula3-bedroomPremierResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-laola3-bedroomTownhouse"
+        },
+        {
+          "@id": "id#QuantitativeValue-laola4-bedroomTownhouse"
+        },
+        {
+          "@id": "id#QuantitativeValue-laola4-bedroomOwnerDesignedResidence"
+        },
+        {
+          "@id": "id#QuantitativeValue-laolaNani3-bedroomSignatureResidence"
+        }
+      ],
+      "brand": {
+        "@type": "Brand",
+        "@id": "id#Brand-timbersKaua‘i–OceanClub&Residences",
+        "url": "https://www.timberskauai.com",
+        "name": "Timbers Kaua‘i – Ocean Club & Residences",
+        "slogan": "Living the Spirit of Aloha"
+      },
+      "starRating": {
+        "@type": "Rating",
+        "@id": "id#Rating-timbersKaua‘i–OceanClub&Residences",
+        "url": "https://www.timberskauai.com",
+        "name": "Timbers Kaua‘i – Ocean Club & Residences Star Rating",
+        "ratingValue": "4.8"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "@id": "id#PostalAddress-timbersKaua‘i–OceanClub&Residences3770Ala’oliWay",
+        "name": "Timbers Kaua‘i – Ocean Club & Residences",
+        "streetAddress": "3770 Ala’oli Way",
+        "addressLocality": "Lihue",
+        "addressRegion": "HI",
+        "postalCode": "96766",
+        "addressCountry": "USA",
+        "telephone": "1-844-440-7572",
+        "email": "info@timberskauai.com",
+        "latitude": "21.9583",
+        "longitude": "-159.3451"
+      }
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences",
+      "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "name": "Timbers Kaua‘i – Ocean Club & Residences Aggregate Rating",
+      "ratingCount": "135",
+      "ratingValue": "4.8",
+      "bestRating": 5,
+      "itemReviewed": {
+        "@type": "Product",
+        "@id": "id#Product-timbersKaua‘i–OceanClub&Residences",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "name": "Timbers Kaua‘i – Ocean Club & Residences",
+        "aggregateRating": {
+          "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "@id": "id#AggregateOffer-timbersKaua‘i–OceanClub&Residences",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "priceCurrency": "USD"
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-kaiholo3-bedroomSignatureResidence",
+      "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "name": "Kaiholo 3-Bedroom Signature Residence",
+      "smokingAllowed": false,
+      "tourBookingPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "description": "With seamless transitions from indoor to outdoor living and lanais extending to the ocean’s edge, you won’t know where the inside ends and nature begins in a Kaiholo Residence. Ranging in size from 3,422 – 3,915 square feet, these Kaua‘i resort vacation rentals offer three or four bedrooms with ensuites and sea-inspired interiors that set the stage for panoramic ocean and mountain views.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences"
+      },
+      "brand": {
+        "@id": "id#Brand-timbersKaua‘i–OceanClub&Residences"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-freeWifi",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Free Wifi",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-luxuriousBathrobes",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Luxurious Bathrobes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-fullKitchen",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Full Kitchen",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-washer/dryer",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Washer/Dryer",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-livingArea",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Living Area",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-noSmoking",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "No Smoking",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-balcony/lanai/terrace",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Balcony/Lanai/Terrace",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffee/teaMaker",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Coffee/Tea Maker",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-upgradedBathroomAmenities",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Upgraded Bathroom Amenities",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-kitchenSupplies",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Kitchen Supplies",
+          "value": true
+        }
+      ],
+      "petsAllowed": false,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-features-0",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "name": "Features",
+          "caption": "Features",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDining-1",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining",
+          "caption": "Kaiholo Dining",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-2",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-3",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKithchen-4",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kithchen",
+          "caption": "Kaiholo Kithchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMaster-5",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master",
+          "caption": "Kaiholo Guest Master",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-6",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKitchen-7",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kitchen",
+          "caption": "Kaiholo Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-interiors-8",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Interiors",
+          "caption": "Interiors",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMasterBed-9",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master Bed",
+          "caption": "Kaiholo Guest Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDiningTable-10",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining Table",
+          "caption": "Kaiholo Dining Table",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoLivingRoom-11",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Living Room",
+          "caption": "Kaiholo Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-12",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo3-bedroomSignatureResidence_occupancy",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "6"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-kaiholo3-bedroomSignatureResidence_bed",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "numberOfBeds": "3",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-kaiholo3-bedroomSignatureResidence_bedtype-2KingAnd1QueenBed",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "2 King and 1 Queen Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo3-bedroomSignatureResidence-3",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "unitText": "Kaiholo 3-Bedroom Signature Residence",
+        "value": "3"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-kaiholo3-bedroomSignatureResidence",
+        "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+        },
+        "target": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-kaiholo3-bedroomSignatureResidence",
+          "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "name": "Kaiholo 3-Bedroom Signature Residence reservation",
+          "mainEntityOfPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "checkinTime": "16:00",
+          "checkoutTime": "09:00",
+          "lodgingUnitDescription": "With seamless transitions from indoor to outdoor living and lanais extending to the ocean’s edge, you won’t know where the inside ends and nature begins in a Kaiholo Residence. Ranging in size from 3,422 – 3,915 square feet, these Kaua‘i resort vacation rentals offer three or four bedrooms with ensuites and sea-inspired interiors that set the stage for panoramic ocean and mountain views.",
+          "lodgingUnitType": "3 total beds",
+          "provider": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          },
+          "reservationFor": {
+            "@id": "id#Room-kaiholo3-bedroomSignatureResidence"
+          },
+          "subjectOf": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-kaiholo3-bedroomSignatureResidence"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-kaiholo4-bedroomSignatureResidence",
+      "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "name": "Kaiholo 4-Bedroom Signature Residence",
+      "smokingAllowed": false,
+      "tourBookingPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "description": "This gorgeous Kaiholo Four-Bedroom Signature space offers beautiful views of the Pacific Ocean and plenty of space for you and up to nine friends or family members. The air-conditioned villa includes four bedrooms, five bathrooms, and more than 3,100 square feet of space for your private enjoyment on a trip or vacation. The two-story building is located on Kauai and gives you the chance to explore everything the Garden Isle has to offer.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences"
+      },
+      "brand": {
+        "@id": "id#Brand-timbersKaua‘i–OceanClub&Residences"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-freeWifi",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Free Wifi",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-luxuriousBathrobes",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Luxurious Bathrobes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-fullKitchen",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Full Kitchen",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-washer/dryer",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Washer/Dryer",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-livingArea",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Living Area",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-noSmoking",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "No Smoking",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-balcony/lanai/terrace",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Balcony/Lanai/Terrace",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffee/teaMaker",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Coffee/Tea Maker",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-upgradedBathroomAmenities",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Upgraded Bathroom Amenities",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-kitchenSupplies",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Kitchen Supplies",
+          "value": true
+        }
+      ],
+      "petsAllowed": false,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-features-0",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "name": "Features",
+          "caption": "Features",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDining-1",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining",
+          "caption": "Kaiholo Dining",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-2",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-3",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKithchen-4",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kithchen",
+          "caption": "Kaiholo Kithchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMaster-5",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master",
+          "caption": "Kaiholo Guest Master",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-6",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKitchen-7",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kitchen",
+          "caption": "Kaiholo Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-interiors-8",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Interiors",
+          "caption": "Interiors",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMasterBed-9",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master Bed",
+          "caption": "Kaiholo Guest Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDiningTable-10",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining Table",
+          "caption": "Kaiholo Dining Table",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoLivingRoom-11",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Living Room",
+          "caption": "Kaiholo Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-12",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo4-bedroomSignatureResidence_occupancy",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "10"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-kaiholo4-bedroomSignatureResidence_bed",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "numberOfBeds": "5",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-kaiholo4-bedroomSignatureResidence_bedtype-3KingAnd2QueenBed",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "3 King and 2 Queen Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo4-bedroomSignatureResidence-4",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "unitText": "Kaiholo 4-Bedroom Signature Residence",
+        "value": "4"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-kaiholo4-bedroomSignatureResidence",
+        "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+        },
+        "target": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-kaiholo4-bedroomSignatureResidence",
+          "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "name": "Kaiholo 4-Bedroom Signature Residence reservation",
+          "mainEntityOfPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "checkinTime": "16:00",
+          "checkoutTime": "09:00",
+          "lodgingUnitDescription": "This gorgeous Kaiholo Four-Bedroom Signature space offers beautiful views of the Pacific Ocean and plenty of space for you and up to nine friends or family members. The air-conditioned villa includes four bedrooms, five bathrooms, and more than 3,100 square feet of space for your private enjoyment on a trip or vacation. The two-story building is located on Kauai and gives you the chance to explore everything the Garden Isle has to offer.",
+          "lodgingUnitType": "5 total beds",
+          "provider": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          },
+          "reservationFor": {
+            "@id": "id#Room-kaiholo4-bedroomSignatureResidence"
+          },
+          "subjectOf": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-kaiholo4-bedroomSignatureResidence"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-kaiholo3-bedroomOceanFrontResidence",
+      "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "name": "Kaiholo 3-Bedroom Ocean Front Residence",
+      "smokingAllowed": false,
+      "tourBookingPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "description": "Panoramic views of the Pacific Ocean are showcased in these expansive vacation rentals. Look east to the Ninini Point Lighthouse or south to the dramatic Ha'upu Mountain Range. Inside you'll find a fresh, contemporary interpretation of traditional Hawaiian architecture with an exceptional level of finish. With two floors to spread out and the seamless transition of the outside in, it's hard to choose where you'll let the day pass.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences"
+      },
+      "brand": {
+        "@id": "id#Brand-timbersKaua‘i–OceanClub&Residences"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-freeWifi",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Free Wifi",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-luxuriousBathrobes",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Luxurious Bathrobes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-fullKitchen",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Full Kitchen",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-washer/dryer",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Washer/Dryer",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-livingArea",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Living Area",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-noSmoking",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "No Smoking",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-balcony/lanai/terrace",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Balcony/Lanai/Terrace",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffee/teaMaker",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Coffee/Tea Maker",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-upgradedBathroomAmenities",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Upgraded Bathroom Amenities",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-kitchenSupplies",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Kitchen Supplies",
+          "value": true
+        }
+      ],
+      "petsAllowed": false,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-features-0",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "name": "Features",
+          "caption": "Features",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDining-1",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining",
+          "caption": "Kaiholo Dining",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-2",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-3",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKithchen-4",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kithchen",
+          "caption": "Kaiholo Kithchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMaster-5",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master",
+          "caption": "Kaiholo Guest Master",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-6",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKitchen-7",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kitchen",
+          "caption": "Kaiholo Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-interiors-8",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Interiors",
+          "caption": "Interiors",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMasterBed-9",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master Bed",
+          "caption": "Kaiholo Guest Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDiningTable-10",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining Table",
+          "caption": "Kaiholo Dining Table",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoLivingRoom-11",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Living Room",
+          "caption": "Kaiholo Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-12",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo3-bedroomOceanFrontResidence_occupancy",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "6"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-kaiholo3-bedroomOceanFrontResidence_bed",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "numberOfBeds": "3",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-kaiholo3-bedroomOceanFrontResidence_bedtype-2KingAnd1QueenBed",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "2 King and 1 Queen Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo3-bedroomOceanFrontResidence-3",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "unitText": "Kaiholo 3-Bedroom Ocean Front Residence",
+        "value": "3"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-kaiholo3-bedroomOceanFrontResidence",
+        "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+        },
+        "target": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-kaiholo3-bedroomOceanFrontResidence",
+          "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "name": "Kaiholo 3-Bedroom Ocean Front Residence reservation",
+          "mainEntityOfPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "checkinTime": "16:00",
+          "checkoutTime": "09:00",
+          "lodgingUnitDescription": "Panoramic views of the Pacific Ocean are showcased in these expansive vacation rentals. Look east to the Ninini Point Lighthouse or south to the dramatic Ha'upu Mountain Range. Inside you'll find a fresh, contemporary interpretation of traditional Hawaiian architecture with an exceptional level of finish. With two floors to spread out and the seamless transition of the outside in, it's hard to choose where you'll let the day pass.",
+          "lodgingUnitType": "3 total beds",
+          "provider": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          },
+          "reservationFor": {
+            "@id": "id#Room-kaiholo3-bedroomOceanFrontResidence"
+          },
+          "subjectOf": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-kaiholo3-bedroomOceanFrontResidence"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-kaiholo3-bedroomSuperiorResidence",
+      "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "name": "Kaiholo 3-Bedroom Superior Residence",
+      "smokingAllowed": false,
+      "tourBookingPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "description": "For families and groups of up to eight, the Kaiholo Three-Bedroom Superior offers all the luxury and relaxation possible for a Hawaiian vacation. It comes with three bedrooms, three bathrooms, and a powder room for guests. Located on Kauai, the oldest of the Hawaiian islands, it creates a slice of paradise with top amenities and extras for a tropical trip. The home has beautiful views of the ocean and is near the Jack Nicklaus Ocean Golf Course.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences"
+      },
+      "brand": {
+        "@id": "id#Brand-timbersKaua‘i–OceanClub&Residences"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-freeWifi",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Free Wifi",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-luxuriousBathrobes",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Luxurious Bathrobes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-fullKitchen",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Full Kitchen",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-washer/dryer",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Washer/Dryer",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-livingArea",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Living Area",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-noSmoking",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "No Smoking",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-balcony/lanai/terrace",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Balcony/Lanai/Terrace",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffee/teaMaker",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Coffee/Tea Maker",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-upgradedBathroomAmenities",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Upgraded Bathroom Amenities",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-kitchenSupplies",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Kitchen Supplies",
+          "value": true
+        }
+      ],
+      "petsAllowed": false,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-features-0",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "name": "Features",
+          "caption": "Features",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDining-1",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining",
+          "caption": "Kaiholo Dining",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-2",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-3",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKithchen-4",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kithchen",
+          "caption": "Kaiholo Kithchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMaster-5",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master",
+          "caption": "Kaiholo Guest Master",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-6",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKitchen-7",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kitchen",
+          "caption": "Kaiholo Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-interiors-8",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Interiors",
+          "caption": "Interiors",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMasterBed-9",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master Bed",
+          "caption": "Kaiholo Guest Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDiningTable-10",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining Table",
+          "caption": "Kaiholo Dining Table",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoLivingRoom-11",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Living Room",
+          "caption": "Kaiholo Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-12",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo3-bedroomSuperiorResidence_occupancy",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "8"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-kaiholo3-bedroomSuperiorResidence_bed",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "numberOfBeds": "4",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-kaiholo3-bedroomSuperiorResidence_bedtype-2KingAnd2QueenBed",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "2 King and 2 Queen Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo3-bedroomSuperiorResidence-3",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "unitText": "Kaiholo 3-Bedroom Superior Residence",
+        "value": "3"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-kaiholo3-bedroomSuperiorResidence",
+        "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+        },
+        "target": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-kaiholo3-bedroomSuperiorResidence",
+          "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "name": "Kaiholo 3-Bedroom Superior Residence reservation",
+          "mainEntityOfPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "checkinTime": "16:00",
+          "checkoutTime": "09:00",
+          "lodgingUnitDescription": "For families and groups of up to eight, the Kaiholo Three-Bedroom Superior offers all the luxury and relaxation possible for a Hawaiian vacation. It comes with three bedrooms, three bathrooms, and a powder room for guests. Located on Kauai, the oldest of the Hawaiian islands, it creates a slice of paradise with top amenities and extras for a tropical trip. The home has beautiful views of the ocean and is near the Jack Nicklaus Ocean Golf Course.",
+          "lodgingUnitType": "4 total beds",
+          "provider": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          },
+          "reservationFor": {
+            "@id": "id#Room-kaiholo3-bedroomSuperiorResidence"
+          },
+          "subjectOf": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-kaiholo3-bedroomSuperiorResidence"
+          }
+        }
+      }
+    },
+    {
+      "@type": [
+        "Room",
+        "Product"
+      ],
+      "@id": "id#Room-kaiholo4-bedroomSuperiorResidence",
+      "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "name": "Kaiholo 4-Bedroom Superior Residence",
+      "smokingAllowed": false,
+      "tourBookingPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+      "description": "Panoramic views of the Pacific Ocean are showcased in these expansive vacation rentals. Look east to the Ninini Point Lighthouse or south to the dramatic Ha'upu Mountain Range. Inside you'll find a fresh, contemporary interpretation of traditional Hawaiian architecture with an exceptional level of finish. With two floors to spread out and the seamless transition of the outside in, it's hard to choose where you'll let the day pass.",
+      "aggregateRating": {
+        "@id": "id#AggregateRating-timbersKaua‘i–OceanClub&Residences"
+      },
+      "brand": {
+        "@id": "id#Brand-timbersKaua‘i–OceanClub&Residences"
+      },
+      "containedInPlace": {
+        "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+      },
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-freeWifi",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Free Wifi",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-luxuriousBathrobes",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Luxurious Bathrobes",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-fullKitchen",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Full Kitchen",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-washer/dryer",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Washer/Dryer",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-livingArea",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Living Area",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-noSmoking",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "No Smoking",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-balcony/lanai/terrace",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Balcony/Lanai/Terrace",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-coffee/teaMaker",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Coffee/Tea Maker",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-upgradedBathroomAmenities",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Upgraded Bathroom Amenities",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "@id": "id#LocationFeatureSpecification-kitchenSupplies",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "Kitchen Supplies",
+          "value": true
+        }
+      ],
+      "petsAllowed": false,
+      "photo": 0,
+      "image": [
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-features-0",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg",
+          "name": "Features",
+          "caption": "Features",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDining-1",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining",
+          "caption": "Kaiholo Dining",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-2",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-3",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKithchen-4",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kithchen",
+          "caption": "Kaiholo Kithchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMaster-5",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master",
+          "caption": "Kaiholo Guest Master",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBath-6",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bath",
+          "caption": "Kaiholo Master Bath",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoKitchen-7",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Kitchen",
+          "caption": "Kaiholo Kitchen",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-interiors-8",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Interiors",
+          "caption": "Interiors",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoGuestMasterBed-9",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Guest Master Bed",
+          "caption": "Kaiholo Guest Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoDiningTable-10",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Dining Table",
+          "caption": "Kaiholo Dining Table",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoLivingRoom-11",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Living Room",
+          "caption": "Kaiholo Living Room",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "id#ImageObject-kaiholoMasterBed-12",
+          "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "contentUrl": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg",
+          "name": "Kaiholo Master Bed",
+          "caption": "Kaiholo Master Bed",
+          "license": "https://www.timbersresorts.com/privacy",
+          "acquireLicensePage": "https://www.timbersresorts.com/privacy",
+          "creditText": "Timbers Kaua‘i – Ocean Club & Residences",
+          "copyrightNotice": "All right reserved",
+          "creator": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          }
+        }
+      ],
+      "occupancy": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo4-bedroomSuperiorResidence_occupancy",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "name": "Number of occupants",
+        "minValue": 1,
+        "maxValue": "10"
+      },
+      "bed": {
+        "@type": "BedDetails",
+        "@id": "id#BedDetails-kaiholo4-bedroomSuperiorResidence_bed",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "numberOfBeds": "5",
+        "typeOfBed": {
+          "@type": "BedType",
+          "@id": "id#BedType-kaiholo4-bedroomSuperiorResidence_bedtype-3KingAnd2QueenBed",
+          "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "name": "3 King and 2 Queen Bed"
+        }
+      },
+      "numberOfRooms": {
+        "@type": "QuantitativeValue",
+        "@id": "id#QuantitativeValue-kaiholo4-bedroomSuperiorResidence-4",
+        "url": "https://www.timberskauai.com/stay/kaiholo-residences",
+        "unitText": "Kaiholo 4-Bedroom Superior Residence",
+        "value": "4"
+      },
+      "potentialAction": {
+        "@type": "ReserveAction",
+        "@id": "id#ReserveAction-kaiholo4-bedroomSuperiorResidence",
+        "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "name": "Reserve",
+        "scheduledTime": "16:00",
+        "startTime": "16:00",
+        "provider": {
+          "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+        },
+        "target": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+        "object": {
+          "@type": "LodgingReservation",
+          "@id": "id#LodgingReservation-kaiholo4-bedroomSuperiorResidence",
+          "url": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "name": "Kaiholo 4-Bedroom Superior Residence reservation",
+          "mainEntityOfPage": "https://www.timberskauai.com/stay/kaiholo-residences",
+          "checkinTime": "16:00",
+          "checkoutTime": "09:00",
+          "lodgingUnitDescription": "Panoramic views of the Pacific Ocean are showcased in these expansive vacation rentals. Look east to the Ninini Point Lighthouse or south to the dramatic Ha'upu Mountain Range. Inside you'll find a fresh, contemporary interpretation of traditional Hawaiian architecture with an exceptional level of finish. With two floors to spread out and the seamless transition of the outside in, it's hard to choose where you'll let the day pass.",
+          "lodgingUnitType": "5 total beds",
+          "provider": {
+            "@id": "id#Resort-timbersKaua‘i–OceanClub&Residences"
+          },
+          "reservationFor": {
+            "@id": "id#Room-kaiholo4-bedroomSuperiorResidence"
+          },
+          "subjectOf": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+          "potentialAction": {
+            "@id": "id#ReserveAction-kaiholo4-bedroomSuperiorResidence"
+          }
+        }
+      }
+    }
+  ]
+}
